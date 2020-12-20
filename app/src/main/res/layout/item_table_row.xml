@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="40dp">
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="轩玉业"
+        android:gravity="center"
+        android:padding="10dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        />
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="123456789"
+        android:gravity="center"
+        android:padding="10dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        />
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:text="国家质检中心" />
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:text="1000"
+        android:gravity="center"
+        android:padding="10dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        />
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="10-11 12:23"
+        android:gravity="center"
+        android:padding="10dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        />
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="圆通速递"
+        android:gravity="center"
+        android:padding="10dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        />
+
+</LinearLayout>
